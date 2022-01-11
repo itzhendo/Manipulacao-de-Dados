@@ -1,0 +1,2 @@
+# Manipulacao-de-Dados
+Programa feito para estudo na universidade. O programa tem como objetivo realizar busca sequencial ou binária a partir do nome ou matrícula. Além disso, o programa realiza ordenação pela categoria selecionada, por exemplo, nome, matricula, departamento e entre outros. E por fim ele encontra linhas da dados com erros com dados em branco. Obs: Deve-se abrir o arquivo DocentesEscola 
